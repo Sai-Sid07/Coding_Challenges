@@ -9,7 +9,7 @@ The TL/DR version is: cut - cuts out the selected portions from each line in a f
 
 #### Link : https://codingchallenges.fyi/challenges/challenge-cut
 
-## wc tool
+## cut tool
 The cut command in linux is a command for cutting out the sections from each line of files and writing the result to standard output. It can be used to cut parts of a line by byte position, character, and field. The cut command slices a line and extracts the text. It is necessary to specify an option with a command otherwise it gives an error. If more than one file name is provided then data from each file is not preceded by its file name. 
 
 ### Usage:
